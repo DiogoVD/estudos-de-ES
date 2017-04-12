@@ -1,1 +1,10 @@
 
+Modelo cascata
+Ex. de projetos: Onibus espacial, Controle de aeronaves.
+-Problemas
+--Dificil de ser particionado
+--Necessita de documentações bem elaboradas
+--Mais utilizado quando há poucas mudanças no projeto
+
+Modelo espiral
+O desenvolvimento do documento é realizado atraves das interações de prototipos,
